@@ -1,0 +1,14 @@
+smmflare_config.json
+
+__pycache__/
+*.pyc
+
+build/
+dist/
+*.spec
+
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db

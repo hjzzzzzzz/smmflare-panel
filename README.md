@@ -8,7 +8,7 @@ Desktop GUI for the [SMMflare](https://smmflare.com/) SMM panel API. Check your 
 - Browse and search services with pricing
 - Place orders (service ID, link, quantity)
 - Check order status
-- Refill balance (opens SMMflare's deposit page in your browser — panel APIs don't support deposits directly)
+- Refill balance (opens SMMflare's deposit page in your browser panel APIs don't support deposits directly)
 
 ## Requirements
 
